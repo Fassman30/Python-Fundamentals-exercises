@@ -1,1 +1,21 @@
 
+# 🔁 Ejercicios de Condicionales – Python Fundamentals
+# ---------------------------------------------------
+# Esta carpeta contiene una colección de ejercicios diseñados para dominar 
+# el uso de condicionales en Python (if, elif, else).
+# 
+# Cada archivo implementa una situación específica en la que se requiere tomar
+# decisiones lógicas con base en condiciones.
+#
+# Ejercicios incluidos:
+# - Validaciones básicas
+# - Clasificación de datos
+# - Comparaciones matemáticas
+# - Lógica de flujo en situaciones reales
+#
+# Objetivo:
+# Consolidar el razonamiento lógico y la correcta sintaxis de estructuras condicionales
+# como preparación para problemas más avanzados y proyectos de inteligencia artificial.
+#
+# Autor: Carlos Andrés Navarrete
+# Fecha: Julio 2025 
