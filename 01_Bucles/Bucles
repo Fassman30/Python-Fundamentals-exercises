@@ -1,1 +1,18 @@
 
+# Ejercicios de Bucles en Python
+
+En esta carpeta están los ejercicios que estuve practicando con ciclos `for` y `while`.  
+La idea es reforzar la lógica básica, aprender a controlar flujos repetitivos y resolver problemas comunes paso a paso.
+
+### Contenido:
+- Números pares, impares y múltiplos
+- Sumatorias y contadores
+- Validaciones con `while`
+- Juego "Adivina el número"
+- Ejercicios progresivos para interiorizar la lógica de bucles
+
+### Notas:
+Todos los ejercicios los desarrollé como parte de mi entrenamiento en fundamentos de Python.  
+No se copiaron de ningún lado; son escritos desde cero, entendiendo cada línea.  
+
+Fecha: 27 y 28 de julio de 2025
